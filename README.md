@@ -3,8 +3,6 @@
 **Student Name:** Бексұлтан  
 **Date:** 27.03.2026
 
----
-
 ## Lab 11.1 - Expo Setup and Core Components
 
 ### What was built:
